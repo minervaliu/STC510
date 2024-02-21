@@ -1,0 +1,1 @@
+curl -s -L https://www.dropbox.com/s/14jagxjbzhyxg8g/log.tar.gz?dl=0&e=1&file_subpath=%2Flog.csv -o log.tar.gz
